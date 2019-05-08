@@ -1,6 +1,8 @@
 # STEAM-gains
-特浮STEAM中心秉承“为未知而学，为未来而教”的教育理念，致力于STEAM课程的研发与整合，让更多的青少年接受专业化、系统化的STEAM教育。
 
+公司及业务简介
+
+特浮STEAM中心秉承“为未知而学，为未来而教”的教育理念，致力于STEAM课程的研发与整合，让更多的青少年接受专业化、系统化的STEAM教育。
 
 2016年12月成立成都研发中心，正与川师大共同筹建STEAM研究中心。团队主要成员来自北大、清华、北师大的博士后、博士和硕士，讲师主要来自北京大学及国内知名专家学者。
 
@@ -26,6 +28,6 @@
 ![image](https://github.com/michaelwuyu/STEAM-gains/blob/master/images/2.jpg)
 ![image](https://github.com/michaelwuyu/STEAM-gains/blob/master/images/1.jpg)
 
-链接：https://pan.baidu.com/s/1Kp8oc3XgJhWKHFILjxYEgQ 
+课程链接：https://pan.baidu.com/s/1Kp8oc3XgJhWKHFILjxYEgQ 
 提取码：zzal 
-复制这段内容后打开百度网盘手机App，操作更方便哦
+
