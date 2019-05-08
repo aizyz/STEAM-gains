@@ -28,6 +28,6 @@
 ![image](https://github.com/michaelwuyu/STEAM-gains/blob/master/images/2.jpg)
 ![image](https://github.com/michaelwuyu/STEAM-gains/blob/master/images/1.jpg)
 
-课程链接：https://pan.baidu.com/s/1Kp8oc3XgJhWKHFILjxYEgQ 
-提取码：zzal 
-
+![image](https://github.com/michaelwuyu/STEAM-gains/blob/master/images/123.jpg)
+![image](https://github.com/michaelwuyu/STEAM-gains/blob/master/images/422.jpg)
+![image](https://github.com/michaelwuyu/STEAM-gains/blob/master/images/853.jpg)
