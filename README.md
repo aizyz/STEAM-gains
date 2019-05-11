@@ -1,6 +1,7 @@
 # STEAM-gains
 
 ###公司及业务简介
+
 官网：http://www.quark-china.com/
 
 特浮STEAM中心，现改名夸克科学院。是由北大研究生团队领衔创办，师资团队含中科院博士，海归硕士等。夸克科学院于2015年在北京创立，其前身为北大豆壳少儿科学实验室。
@@ -11,7 +12,7 @@
 
 ###口号：为未知而教，为未来而学！
 
-公司宣传页（手上ppt版本截至2018年3月，过时了）
+公司宣传页（手上ppt版本截至2018年4月，过时了，最新请浏览官网：http://www.quark-china.com/）
 
 ![image](https://github.com/michaelwuyu/STEAM-gains/blob/master/images/65.jpg)
 
