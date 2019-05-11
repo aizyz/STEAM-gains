@@ -8,6 +8,13 @@
 
 夸克科学院依托于国内外高校、科技企业的资源，共同打造而成的优秀STEAM教育平台，目前已经和成都实验小学、成师附小、天涯石小学、川师实外等名校进行了STEAM课程合作。
 
+![image](https://github.com/michaelwuyu/STEAM-gains/blob/master/images/1.png)
+
+![image](https://github.com/michaelwuyu/STEAM-gains/blob/master/images/2.png)
+
+![image](https://github.com/michaelwuyu/STEAM-gains/blob/master/images/3.png)
+
+
 夸克科学院课程包括AI人工智能系列、天文科学家系列和未来工程师系列课程。夸克科学院着力于培养学生计算思维、工程思维及解决问题的能力和团队协作能力。
 
 ###口号：为未知而教，为未来而学！
