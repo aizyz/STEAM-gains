@@ -11,9 +11,7 @@
 
 ###口号：为未知而教，为未来而学！
 
-公司宣传页（版本截至2018年4月，有点过时了）
-
-![image](https://github.com/michaelwuyu/STEAM-gains/blob/master/images/64.jpg)
+公司宣传页（手上ppt版本截至2018年3月，过时了）
 
 ![image](https://github.com/michaelwuyu/STEAM-gains/blob/master/images/65.jpg)
 
